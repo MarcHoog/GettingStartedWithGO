@@ -1,4 +1,8 @@
-# GettingStartedWithGO
-Wanne learn go cause I use older hardware in my lab and it looks fun! I think python, go and later bash can be a good combo. To use in the devops kinda automation sphere of things. This Repo, is bassicly to document a bit of my starting experience with go!
+# Getting started with go
+--- 
 
-Gonna do look around with some documentation. And two videos of codecamp
+I recently got interested in Programming in GO, having a background in Python, Bash and a little bit of powershell it seemed fun for making API's and webhooks
+
+This Repository is really just for some very simplified Testing with how GO works and how you can actually work with GO.
+
+

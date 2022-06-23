@@ -1,4 +1,4 @@
-package main
+package main2
 
 import "fmt"
 
@@ -14,7 +14,7 @@ var (
 
 var x string = "Shadow variable"
 
-func main() {
+func main2() {
 
 	// Shadow Variable
 
